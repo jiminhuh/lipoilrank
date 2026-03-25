@@ -2,7 +2,7 @@ import { defineConfig } from 'astro/config';
 
 export default defineConfig({
   output: 'static',
-  site: 'https://example.com', // Agent replaces with actual domain
+  site: 'https://lipoilrank.vercel.app',
   build: {
     format: 'directory',
   },
